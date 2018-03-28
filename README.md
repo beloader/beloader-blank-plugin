@@ -1,6 +1,6 @@
 # Blank plugin template
 
-To create your own plugin, you can fork this template.
+To create your own plugin, you can clone or download this template.
 
 Then run
 
