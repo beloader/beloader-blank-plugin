@@ -1,5 +1,7 @@
 # Blank plugin template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/beloader/beloader-blank-plugin.svg)](https://greenkeeper.io/)
+
 To create your own plugin, you can clone or download this template.
 
 Then run
